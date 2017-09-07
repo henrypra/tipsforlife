@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181225955422",
+    "firebase_url": "https://tips-for-life.firebaseio.com",
+    "project_id": "tips-for-life",
+    "storage_bucket": "tips-for-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225955422:android:5bf71bc062f614e6",
+        "android_client_info": {
+          "package_name": "com.tips4life.tipsforlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225955422-fvvassveh9u7ufqv3gkke5tcrra6lodj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tips4life.tipsforlife",
+            "certificate_hash": "a5d276876b356f5899876e7b39fcafaa9b1bcddd"
+          }
+        },
+        {
+          "client_id": "181225955422-beqjfqfvop9k441f9lj7lrccoljls78r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFJFz1jWXPtYQpdlHAGE-SHt6tSia1EE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225955422-beqjfqfvop9k441f9lj7lrccoljls78r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
