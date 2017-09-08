@@ -8,7 +8,7 @@
     tools:context="com.tips4life.tipsforlife.MainActivity">
 
     <TextView
-        android:id="@+id/testTip"
+        android:id="@+id/txt_tip"
         android:layout_width="319dp"
         android:layout_height="369dp"
         android:layout_marginBottom="8dp"
