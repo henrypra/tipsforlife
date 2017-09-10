@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TipsForLife</string>
+    <string name="no_tips_available">No Tips Available...</string>
 </resources>
