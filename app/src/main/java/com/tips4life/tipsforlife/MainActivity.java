@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                if (dataSnapshot.exists()) // which obviously it does
+                if (dataSnapshot.exists() && dataSnapshot.hasChildren()) // which obviously it does
                 {
                     // Generate random index bounded by total children in category.
                     Long childrenCount = dataSnapshot.getChildrenCount();
