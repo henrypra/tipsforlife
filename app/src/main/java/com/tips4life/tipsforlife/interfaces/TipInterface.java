@@ -1,4 +1,4 @@
-package com.tips4life.tipsforlife.ineterfaces;
+package com.tips4life.tipsforlife.interfaces;
 
 /*
 * TipInterface interface to enforce behaviour across tip classes.
@@ -9,7 +9,9 @@ package com.tips4life.tipsforlife.ineterfaces;
 public interface TipInterface {
 
     void save();
+
     void delete();
+
     void update();
 
 }

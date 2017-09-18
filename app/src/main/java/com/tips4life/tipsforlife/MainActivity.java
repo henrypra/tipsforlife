@@ -53,14 +53,14 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    private String randomIndex(int count){
+    private String randomIndex(int count) {
 
         // Generates a random number bounded by count of children in tips category.
         // Need to cast and return as String to be passed as a valid path in Firebase.
         Random rand = new Random();
         Integer randomNumber = rand.nextInt(count + 1);
 
-        if(randomNumber == 0){
+        if (randomNumber == 0) {
             randomNumber = 1;
         }
 

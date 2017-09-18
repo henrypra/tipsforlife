@@ -1,6 +1,6 @@
 package com.tips4life.tipsforlife.model;
 
-import com.tips4life.tipsforlife.ineterfaces.TipInterface;
+import com.tips4life.tipsforlife.interfaces.TipInterface;
 
 public class TipModel implements TipInterface {
 
