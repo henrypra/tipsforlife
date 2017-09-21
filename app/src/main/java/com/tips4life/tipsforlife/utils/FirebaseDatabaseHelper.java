@@ -11,7 +11,7 @@ public class FirebaseDatabaseHelper {
 
     private static final DatabaseReference mDbRef = FirebaseDatabase.getInstance().getReference();
 
-    public static DatabaseReference getFirebaseDb(){
+    public static DatabaseReference getFirebaseDb() {
         return mDbRef;
     }
 
